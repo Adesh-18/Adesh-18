@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi 👋, I'm Adesh Reddy
+  Hi 👋, I'm Adesh Vajrapu
 </h1>
 
 <h3 align="center">
-  3rd Year Engineering Student | Learning Full Stack Development & Data Analysis
+  3rd Year Engineering Student | Learning Full Stack Development 
 </h3>
 
 <p align="center">
