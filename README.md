@@ -54,7 +54,7 @@ A blog platform where users can:
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: Adesh Vajrapu
+- 💼 LinkedIn:www.linkedin.com/in/adesh-vajrapu-39a13a373
 - 🐙 GitHub: https://github.com/Adesh-18
 
 ---
