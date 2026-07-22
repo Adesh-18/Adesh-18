@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year Engineering Student  
-- 💻 Currently learning JavaScript, Web Development, and Data Analysis  
-- 📚 Interested in Full Stack Development and Data Science  
+- 🎓 Final Year Engineering Student  
+- 💻 Currently learning JavaScript, Web Development, and cloud(Aws)
+- 📚 Interested in Full Stack Development 
 - 🚀 Building projects to improve practical skills  
-- 🎯 Goal: Become a skilled software developer and data analyst
+- 🎯 Goal: Become a skilled software developer 
 
 ---
 
@@ -35,7 +35,7 @@
 - Operating Systems
 - DBMS
 - Computer Networks
-- MEFA
+- Object-Oriented Programming (OOP)
 
 ---
 
@@ -54,7 +54,7 @@ A blog platform where users can:
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn link
+- 💼 LinkedIn: Adesh Vajrapu
 - 🐙 GitHub: https://github.com/Adesh-18
 
 ---
