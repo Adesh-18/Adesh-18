@@ -1,24 +1,31 @@
+<!-- HEADER -->
+
 <div align="center">
 
-# 👋 Hi, I'm V Adesh Vajrapu
+```text
+██╗   ██╗    █████╗    ██████╗    ███████╗    ██╗  ██╗
+██║   ██║   ██╔══██╗   ██╔══██╗   ██╔════╝    ██║  ██║
+██║   ██║   ███████║   ██║  ██║   █████╗      ███████║
+╚██╗ ██╔╝   ██╔══██║   ██║  ██║   ██╔══╝      ██╔══██║
+ ╚████╔╝    ██║  ██║   ██████╔╝   ███████╗    ██║  ██║
+  ╚═══╝     ╚═╝  ╚═╝   ╚═════╝    ╚══════╝    ╚═╝  ╚═╝
+```
 
-### B.Tech CSE Student | Full-Stack Web Developer | AI & ML Enthusiast
+<img src="./code.gif" width="120px" alt="Coding" /><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%94%A5;Learning+DSA+%26+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+### Hi there, I'm **V Adesh Vajrapu** 👋
 
-<br>
-
-<img src="./code.gif" width="180px" alt="Coding" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=00FF88\&center=true\&vCenter=true\&width=650\&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;DSA+Learner+%F0%9F%A7%A0;Building+Real-World+Projects+%E2%9A%A1)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="./github.svg" width="45" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="./gmail.svg" width="45" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -28,20 +35,23 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- ABOUT -->
+
+<div align="center">
 
 ```bash
 $ whoami
 ```
 
+</div>
+
 ```text
 > V Adesh Vajrapu
-> B.Tech CSE Student
-> India
-
+> B.Tech CSE Student | India
+>
 > I am a Computer Science student focused on
 > Full-Stack Web Development, AI/ML and DSA.
-
+>
 > Currently:  Strengthening JavaScript, React and Python
 > Learning:   Node.js, DSA, Machine Learning and Cloud
 > Building:   Full-Stack and AI/ML projects
@@ -50,22 +60,30 @@ $ whoami
 
 ---
 
-## 🚀 What I'm Learning
+<!-- STATS -->
 
-* 🌐 Full-Stack Web Development
-* ⚛️ React.js
-* 🟢 Node.js & Express.js
-* 🐍 Python
-* 🤖 Machine Learning
-* 🧠 Data Structures & Algorithms
-* 🗄️ MySQL
-* 🔧 Git & GitHub
-* ☁️ AWS
-* 🐳 Docker & Linux
+<div align="center">
+
+## 📊  By The Numbers
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF88&fire=ff6b35&currStreakLabel=00FF88" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="42%" />
+
+</div>
 
 ---
 
-## 🔥 Featured Projects
+<!-- PROJECTS -->
+
+## 🔥  Featured Projects
+
+> Projects I have worked on while developing my skills.
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🛒 E-Commerce Website
 
@@ -79,7 +97,9 @@ A responsive e-commerce website built using HTML, CSS and JavaScript.
 * Responsive design
 * Shopping interface
 
----
+</td>
+
+<td width="50%">
 
 ### 🤖 AI Medical Assistant
 
@@ -87,7 +107,13 @@ An AI-powered web application designed to provide general health information thr
 
 **Stack:** `HTML` `CSS` `JavaScript` `Gemini API`
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🌱 Soil pH & Nutrient Management
 
@@ -95,23 +121,33 @@ An AI/ML-based agriculture solution focused on soil analysis and nutrient recomm
 
 **Stack:** `Python` `Pandas` `Scikit-learn` `Machine Learning`
 
----
+</td>
 
-### 🌾 Smart Crop Recommendation System
+<td width="50%">
+
+### 🌾 Smart Crop Recommendation
 
 A machine-learning application that recommends suitable crops based on agricultural parameters.
 
-**Stack:** `Python` `Pandas` `Scikit-learn` `Machine Learning`
+**Stack:** `Python` `Pandas` `Scikit-learn`
 
----
+</td>
 
-### 🌡️ Contactless Temperature Monitoring System
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌡️ Contactless Temperature Monitoring
 
 An IoT-based system for contactless temperature measurement and monitoring.
 
 **Hardware:** `Arduino` `ESP32` `MLX90614` `GSM` `PIR`
 
----
+</td>
+
+<td width="50%">
 
 ### 🚨 AI Crime Reporting System
 
@@ -119,109 +155,84 @@ An AI-based solution focused on improving crime reporting and assistance through
 
 **Focus:** `AI` `Web Development` `Automation`
 
----
+</td>
 
-## ⚙️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="./c.svg" width="45" alt="C" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="./css3.svg" width="45" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="./django.svg" width="45" alt="Django" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="./git.svg" width="45" alt="Git" />
-  <img src="./github.svg" width="45" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="./aws.svg" width="50" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
+</tr>
+</table>
 
 ---
 
-## 🧠 DSA Practice
+<!-- TECH STACK -->
+
+## ⚙️  Tech Stack
+
+```bash
+$ cat ~/.tech_stack
+```
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) <img src="./c.svg" width="35" alt="C" />
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white) <img src="./css3.svg" width="35" alt="CSS3" />
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white) <img src="./django.svg" width="35" alt="Django" />
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+**AI & Machine Learning**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
+
+**Tools**
+
+<img src="./git.svg" width="35" alt="Git" />
+<img src="./github.svg" width="35" alt="GitHub" />
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Cloud & DevOps**
+
+<img src="./aws.svg" width="40" alt="AWS" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+<!-- DSA -->
+
+## 🧠  DSA Practice
 
 Currently working through:
 
-* Arrays
-* Array Traversal
-* Largest Element
-* Second Largest Element
-* Reverse an Array
-* Rotate an Array
-* Move Zeros to the End
-* Remove Duplicates
-* Merge Sorted Arrays
-* Missing Number
-* Two Sum
-* Best Time to Buy and Sell Stock
-* Kadane's Algorithm
-* Two Pointer Technique
-* Sliding Window
+`Arrays` · `Array Traversal` · `Largest Element` · `Second Largest Element`
+
+`Reverse Array` · `Rotate Array` · `Move Zeros` · `Remove Duplicates`
+
+`Merge Sorted Arrays` · `Missing Number` · `Two Sum`
+
+`Best Time to Buy and Sell Stock` · `Kadane's Algorithm`
+
+`Two Pointer` · `Sliding Window`
 
 ---
 
-## 📊 GitHub Stats
+<!-- ACTIVITY -->
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF88&fire=ff6b35&currStreakLabel=00FF88" width="70%" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## 📈  Contribution Activity
 
 <div align="center">
 
@@ -231,14 +242,14 @@ Currently working through:
 
 ---
 
-## 🎯 Current Focus
+<!-- CURRENT FOCUS -->
 
-<div align="center">
+## 🎯  What I'm Currently Learning
 
 ```text
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
-│  🌐 Full-Stack Development                          │
+│  🌐 Full-Stack Web Development                      │
 │  🧠 DSA & Problem Solving                           │
 │  🤖 Machine Learning                                │
 │  ☁️  Cloud & DevOps                                 │
@@ -246,14 +257,14 @@ Currently working through:
 └─────────────────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
 
-## 🏆 Goals
+<!-- GOALS -->
 
-* Build strong Full-Stack development skills
-* Become confident in DSA and technical interviews
+## 🏆  Goals
+
+* Become a strong Full-Stack Developer
+* Improve DSA and problem-solving skills
 * Build practical AI/ML applications
 * Learn AWS, Docker and Linux
 * Build real-world projects
@@ -261,44 +272,20 @@ Currently working through:
 
 ---
 
-## 🤝 Let's Connect
+<!-- FOOTER -->
 
 <div align="center">
 
-I'm interested in **Full-Stack Development, AI/ML, DSA and building real-world software.**
-
-<br>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="./github.svg" width="45" alt="GitHub" />
-</a>
-
-  
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-  
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="./gmail.svg" width="45" alt="Gmail" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./code.gif" width="150px" alt="Coding" />
+<img src="./code.gif" width="100px" alt="Coding" />
 
 ```text
-> Keep learning.
-> Keep building.
-> Keep improving.
+> if (learning.continues) {
+>     growth++;
+> }
 ```
 
-⭐ If you find something useful here, feel free to star the repository.
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories.
 
 </div>
