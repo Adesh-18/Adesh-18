@@ -38,8 +38,8 @@ $ whoami
 > I am a Computer Science student focused on
 > Full-Stack Web Development, AI/ML and DSA.
 
-> Currently:  Building web applications with JavaScript & React
-> Learning:   Node.js, Python, DSA, Machine Learning & Cloud
+> Currently:  Strengthening JavaScript, React and Python
+> Learning:   Node.js, DSA, Machine Learning and Cloud
 > Building:   Full-Stack and AI/ML projects
 > Goal:       Become a strong Software Engineer
 ```
@@ -136,7 +136,6 @@ An AI-based solution focused on improving crime reporting and assistance through
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
 
 ### 🗄️ Database
 
