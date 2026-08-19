@@ -1,4 +1,3 @@
-
 <!-- HEADER -->
 <div align="center">
 
@@ -13,23 +12,23 @@
 
 <img src="./code.gif" width="120px" alt="Coding" /><br/>
 
-### Hi there, I'm **V Adesh Vajrapu** 👋
+### Hi there, I'm **Adesh** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=00FF88\&center=true\&vCenter=true\&width=650\&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;DSA+Learner+%F0%9F%A7%A0;Building+Real-World+Projects+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;DSA+Learner+%F0%9F%A7%A0;Building+Real-World+Projects+%E2%9A%A1)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Adesh-18">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+ <a href="https://www.linkedin.com/in/adesh-vajrapu-39a13a373/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  <a href="mailto:adeshadesh645@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=00ff88\&style=for-the-badge\&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=Adesh-18&color=00ff88&style=for-the-badge&label=VISITORS)
 
 </div>
 
@@ -66,9 +65,9 @@ $ whoami
 
 ## 📊  By The Numbers
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF88&fire=ff6b35&currStreakLabel=00FF88" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adesh-18&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF88&fire=ff6b35&currStreakLabel=00FF88" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adesh-18&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="42%" />
 
 </div>
 
@@ -91,11 +90,11 @@ A responsive e-commerce website built using HTML, CSS and JavaScript.
 
 **Stack:** `HTML` `CSS` `JavaScript`
 
-* Product listing
-* Product details
-* Product image switching
-* Responsive design
-* Shopping interface
+- Product listing
+- Product details
+- Product image switching
+- Responsive design
+- Shopping interface
 
 </td>
 
@@ -172,30 +171,30 @@ $ cat ~/.tech_stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) <img src="./c.svg" width="35" alt="C" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <img src="./c.svg" width="35" alt="C" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white) <img src="./css3.svg" width="35" alt="CSS3" />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <img src="./css3.svg" width="35" alt="CSS3" />
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white) <img src="./django.svg" width="35" alt="Django" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) <img src="./django.svg" width="35" alt="Django" />
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI & Machine Learning**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 **Tools**
 
@@ -232,7 +231,7 @@ Currently working through:
 
 <!-- ACTIVITY -->
 
-## 📈  Contribution Activity
+## 📈 &nbsp;Contribution Activity
 
 <div align="center">
 
@@ -263,12 +262,12 @@ Currently working through:
 
 ## 🏆  Goals
 
-* Become a strong Full-Stack Developer
-* Improve DSA and problem-solving skills
-* Build practical AI/ML applications
-* Learn AWS, Docker and Linux
-* Build real-world projects
-* Prepare for software engineering placements
+- Become a strong Full-Stack Developer
+- Improve DSA and problem-solving skills
+- Build practical AI/ML applications
+- Learn AWS, Docker and Linux
+- Build real-world projects
+- Prepare for software engineering placements
 
 ---
 
