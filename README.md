@@ -206,7 +206,7 @@ Currently working through:
 
 <div align="center">
 
-[![Adesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&bg_color=0d1117\&color=00FF88\&line=00FF88\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="./github.gif" width="500px" alt="GitHub Activity" />
 
 </div>
 
@@ -252,6 +252,10 @@ I'm interested in **Full-Stack Development, AI/ML, DSA and building real-world s
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
