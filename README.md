@@ -160,7 +160,7 @@ An early-stage solution exploring how AI and automation can support crime report
 ## 🙋 Who Am I?
 
 ```text
-> I'm a 3rd-year B.Tech AI & ML student at
+> I'm a Final year B.Tech Cse student at
 > QIS College of Engineering and Technology, Ongole.
 >
 > I'm learning to build full-stack web applications
