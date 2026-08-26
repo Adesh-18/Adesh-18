@@ -14,7 +14,7 @@
 
 ### Hi there, I'm **V Adesh Vajrapu** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=B.Tech+AI+%26+ML+Student+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;Learning+DSA+%26+Cloud+%E2%98%81%EF%B8%8F;Building+Real-World+Projects+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=B.Tech+cSE+%26++Student+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;Learning+DSA+%26+Cloud+%E2%98%81%EF%B8%8F;Building+Real-World+Projects+%E2%9A%A1)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/Adesh-18">
